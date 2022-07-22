@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.f3f13ebb.css",
-    "main.js": "./static/js/main.bd66ae56.js",
+    "main.js": "./static/js/main.713775db.js",
     "static/media/meeting.jpg": "./static/media/meeting.214d04d83866660466a7.jpg",
     "static/media/04.jpg": "./static/media/04.fec7453ea26229b44ffb.jpg",
     "static/media/02.jpg": "./static/media/02.117b75c2fc788cbf5f57.jpg",
@@ -24,10 +24,10 @@
     "static/media/oticasvida.png": "./static/media/oticasvida.0e3e53427a14353ae70b.png",
     "index.html": "./index.html",
     "main.f3f13ebb.css.map": "./static/css/main.f3f13ebb.css.map",
-    "main.bd66ae56.js.map": "./static/js/main.bd66ae56.js.map"
+    "main.713775db.js.map": "./static/js/main.713775db.js.map"
   },
   "entrypoints": [
     "static/css/main.f3f13ebb.css",
-    "static/js/main.bd66ae56.js"
+    "static/js/main.713775db.js"
   ]
 }
